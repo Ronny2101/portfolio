@@ -64,7 +64,7 @@ export function ContactSlide() {
           Gmail.com
         </a>
         <a
-          href="/Resume.pdf"
+          href="/portfolio/Resume.pdf"
           target="_blank"
           className="px-6 py-3.5 border border-text/15 rounded-full text-sm font-medium text-text hover:bg-text/5 transition-colors"
         >

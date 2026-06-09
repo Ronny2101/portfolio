@@ -25,7 +25,7 @@ export function AboutSlide() {
           <div className="absolute -inset-4 rounded-3xl bg-linear-to-br from-accent/20 to-purple-400/20 -rotate-3 blur-sm" />
           <div className="absolute -inset-3 rounded-3xl bg-linear-to-br from-accent-soft to-purple-100 -rotate-2" />
           <Image
-            src="/images/ronny.jpg"
+            src="/portfolio/images/ronny.jpg"
             alt="Dilshod Daminov"
             width={340}
             height={420}
