@@ -1,5 +1,0 @@
-1:"$Sreact.fragment"
-2:I[22701,["/portfolio/_next/static/chunks/58c0e255ca55bc69.js","/portfolio/_next/static/chunks/444af50bb4094b86.js"],"ViewportBoundary"]
-3:I[22701,["/portfolio/_next/static/chunks/58c0e255ca55bc69.js","/portfolio/_next/static/chunks/444af50bb4094b86.js"],"MetadataBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"UVkTsRr2-o2uzwaBRYI-6","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Dilshod Daminov | Full Stack Developer"}],["$","meta","1",{"name":"description","content":"Full Stack Developer based in South Korea. Building scalable web applications with React, Next.js, NestJS, TypeScript and MongoDB."}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
